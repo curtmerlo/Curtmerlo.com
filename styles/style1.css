@@ -275,10 +275,67 @@ img#header {
 }
 
 
-/*a.icon.mail  {
+.icon-mail  {
 	display: inline;
     width:32px;
     height:26px;
-    background-image: url('images/mail.jpg');
+    background-image: url("../images/mail.jpg");
 }
-*/
+
+.icon-mail:hover {
+	display: inline;
+    width:32px;
+    height:26px;
+    background-image: url("../images/mail-hover.jpg");
+}
+
+.icon-phone  {
+	display: inline;
+    width:32px;
+    height:26px;
+    background-image: url("../images/phone.jpg");
+}
+
+.icon-newsletter  {
+	display: inline;
+    width:32px;
+    height:26px;
+    background-image: url("../images/newsletter.jpg");
+}
+
+.icon-newsletter:hover {
+	display: inline;
+    width:32px;
+    height:26px;
+    background-image: url("../images/newsletter-hover.jpg");
+}
+
+.icon-facebook  {
+	display: inline;
+    width:32px;
+    height:26px;
+    background-image: url("../images/facebook.jpg");
+}
+
+.icon-facebook:hover {
+	display: inline;
+    width:32px;
+    height:26px;
+    background-image: url("../images/facebook-hover.jpg");
+}
+
+.icon-twitter  {
+	display: inline;
+    width:32px;
+    height:26px;
+    background-image: url("../images/twitter.jpg");
+}
+
+.icon-twitter:hover {
+	display: inline;
+    width:32px;
+    height:26px;
+    background-image: url("../images/twitter-hover.jpg");
+}
+
+
