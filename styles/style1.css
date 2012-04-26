@@ -18,7 +18,7 @@ body, a {
 #sidebar {
 	float: left;
 	margin-left: 30px;
-	width: 170px;
+	width: 172px;
 }
 
 #content {
@@ -116,6 +116,15 @@ a.submenu-item.active {
 	width: 160px;
 	height: 2px;
 	background-color: black;
+}
+
+.line-mid {
+	float: left;
+	margin: 5px 0;
+	width: 160px;
+	height: 2px;
+	background-color: black;
+	clear: both;
 }
 
 .long-line {
