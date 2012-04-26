@@ -98,7 +98,8 @@ a.submenu-item.active {
 	color: #000000;
 }
 
-.menu-item:hover {
+.menu-item:hover,
+.menu-item:hover a {
 	color: #ff5252;
 }
 
