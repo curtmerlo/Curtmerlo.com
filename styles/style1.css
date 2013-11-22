@@ -65,7 +65,7 @@ div#menu ul {
 	float: left;
 	font-size: 11pt;
 	text-transform: uppercase;
-	margin-right: 10px;
+	margin-right: 9px;
 }
 .menu-item.active{
 	color: #777;
@@ -75,12 +75,10 @@ div#menu ul {
 }
 
 a.submenu-item {
-	font-size: 7pt;
-	line-height: 7pt;
-	padding-top: 2px;
-	margin-left: 16px;
+	float: left;
+	font-size: 11pt;
 	text-transform: uppercase;
-	display: block;
+	margin-right: 5px;
 }
 
 a.submenu-item:hover {
@@ -217,6 +215,14 @@ img#header {
 	margin-bottom: 5px;
 }
 
+.bookicon {
+	border: 0;
+	float: left;
+	width: 160px;
+	height: 200px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
 #title {
 	font-size: 11px;
 	color: #999999;
