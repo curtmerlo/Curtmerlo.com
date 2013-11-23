@@ -203,6 +203,7 @@ img#header {
 	font-size: 6pt;
 	color: #888;
 	margin-bottom: 10px;
+	margin-top: 3px;
 }
 
 .thumbnail {
@@ -213,6 +214,15 @@ img#header {
 	height: 50px;
 	margin-right: 5px;
 	margin-bottom: 5px;
+}
+
+.buy-button {
+	float: right;
+	font-size: 10pt;
+	color: #ff5252;
+	text-transform: uppercase;
+	margin-right: 13px;
+	
 }
 
 .bookicon {
