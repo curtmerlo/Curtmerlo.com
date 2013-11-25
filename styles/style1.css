@@ -65,7 +65,7 @@ div#menu ul {
 	float: left;
 	font-size: 11pt;
 	text-transform: uppercase;
-	margin-right: 9px;
+	margin-right: 5px;
 }
 .menu-item.active{
 	color: #777;
