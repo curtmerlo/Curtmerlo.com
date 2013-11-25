@@ -18,7 +18,7 @@ body, a {
 #sidebar {
 	float: left;
 	margin-left: 30px;
-	width: 172px;
+	width: 170px;
 }
 
 #content {
@@ -65,7 +65,7 @@ div#menu ul {
 	float: left;
 	font-size: 11pt;
 	text-transform: uppercase;
-	margin-right: 10px;
+	margin-right: 9px;
 }
 .menu-item.active{
 	color: #777;
@@ -75,12 +75,10 @@ div#menu ul {
 }
 
 a.submenu-item {
-	font-size: 7pt;
-	line-height: 7pt;
-	padding-top: 2px;
-	margin-left: 16px;
+	float: left;
+	font-size: 11pt;
 	text-transform: uppercase;
-	display: block;
+	margin-right: 5px;
 }
 
 a.submenu-item:hover {
@@ -98,8 +96,7 @@ a.submenu-item.active {
 	color: #000000;
 }
 
-.menu-item:hover,
-.menu-item:hover a {
+.menu-item:hover {
 	color: #ff5252;
 }
 
@@ -117,15 +114,6 @@ a.submenu-item.active {
 	width: 160px;
 	height: 2px;
 	background-color: black;
-}
-
-.line-mid {
-	float: left;
-	margin: 5px 0;
-	width: 160px;
-	height: 2px;
-	background-color: black;
-	clear: both;
 }
 
 .long-line {
@@ -215,6 +203,7 @@ img#header {
 	font-size: 6pt;
 	color: #888;
 	margin-bottom: 10px;
+	margin-top: 3px;
 }
 
 .thumbnail {
@@ -227,6 +216,23 @@ img#header {
 	margin-bottom: 5px;
 }
 
+.buy-button {
+	float: right;
+	font-size: 10pt;
+	color: #ff5252;
+	text-transform: uppercase;
+	margin-right: 13px;
+	
+}
+
+.bookicon {
+	border: 0;
+	float: left;
+	width: 150px;
+	height: 200px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
 #title {
 	font-size: 11px;
 	color: #999999;
@@ -275,67 +281,10 @@ img#header {
 }
 
 
-.icon-mail  {
+/*a.icon.mail  {
 	display: inline;
     width:32px;
     height:26px;
-    background-image: url("../images/mail.jpg");
+    background-image: url('images/mail.jpg');
 }
-
-.icon-mail:hover {
-	display: inline;
-    width:32px;
-    height:26px;
-    background-image: url("../images/mail-hover.jpg");
-}
-
-.icon-phone  {
-	display: inline;
-    width:32px;
-    height:26px;
-    background-image: url("../images/phone.jpg");
-}
-
-.icon-newsletter  {
-	display: inline;
-    width:32px;
-    height:26px;
-    background-image: url("../images/newsletter.jpg");
-}
-
-.icon-newsletter:hover {
-	display: inline;
-    width:32px;
-    height:26px;
-    background-image: url("../images/newsletter-hover.jpg");
-}
-
-.icon-facebook  {
-	display: inline;
-    width:32px;
-    height:26px;
-    background-image: url("../images/facebook.jpg");
-}
-
-.icon-facebook:hover {
-	display: inline;
-    width:32px;
-    height:26px;
-    background-image: url("../images/facebook-hover.jpg");
-}
-
-.icon-twitter  {
-	display: inline;
-    width:32px;
-    height:26px;
-    background-image: url("../images/twitter.jpg");
-}
-
-.icon-twitter:hover {
-	display: inline;
-    width:32px;
-    height:26px;
-    background-image: url("../images/twitter-hover.jpg");
-}
-
-
+*/
