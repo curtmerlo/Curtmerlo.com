@@ -147,7 +147,7 @@ a.submenu-item.active {
 	text-align: right;
 	float: right;
 	margin-right: 22px;
-	margin-top: -20px;
+	margin-top: 0px;
 	color: #000;
 }
 
