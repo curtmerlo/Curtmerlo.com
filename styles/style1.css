@@ -135,7 +135,6 @@ a.submenu-item.active {
 
 .header {
 	font-family: Futura, verdana;
-	float:left;
 	font-size: 7pt;
 	display: inline;
 	color: #000;
@@ -148,7 +147,7 @@ a.submenu-item.active {
 	text-align: right;
 	float: right;
 	margin-right: 22px;
-	margin-top: -10px;
+	margin-top: -50px;
 	color: #000;
 }
 
