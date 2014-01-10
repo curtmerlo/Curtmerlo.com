@@ -145,9 +145,9 @@ a.submenu-item.active {
 	font-family: Futura, verdana;
 	font-size: 6pt;
 	text-align: right;
-	float: right;
+	float:;
 	margin-right: 22px;
-	margin-top: 3px;
+	margin-top: 0px;
 	color: #000;
 }
 
